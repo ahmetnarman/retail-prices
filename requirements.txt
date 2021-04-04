@@ -1,3 +1,5 @@
+Scrapy
+webdriver-manager
 beautifulsoup4
 selenium
 requests
